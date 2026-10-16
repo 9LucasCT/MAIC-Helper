@@ -1,0 +1,16 @@
+.venv/
+.session/
+exports/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.log
+*.part
+.pytest_cache/
+.ruff_cache/
+.idea/
+.vscode/
+build/
+dist/
+*.egg-info/
